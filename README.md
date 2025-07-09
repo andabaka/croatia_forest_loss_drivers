@@ -55,8 +55,6 @@ The analysis uses seven driver classifications representing the **dominant cause
 
 
 Croatia's forest loss pattern differs significantly from the global average, where permanent agriculture dominates (34.8% globally). The predominance of logging (70.6%) reflects Croatia's active forest management sector and sustainable forestry practices.
-Technical Details
-
 
 ## License
 MIT License - see LICENSE file for details.
