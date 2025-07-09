@@ -1,0 +1,18 @@
+# R specific
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Large data files
+*.tif
+*.tiff
+*.shp
+*.zip
+data/raw/
+temp/
+
+# System files
+.DS_Store
+Thumbs.db
