@@ -51,8 +51,7 @@ export_drivers_data <- function() {
         maxPixels = 1e9
     )
     task$start()
-    cat("Export started! Monitor at: https://code.earthengine.google.com/tasks\n")
-    cat("Download the file and place it in your working directory as 'croatia_drivers_final.tif'\n")
+
 }
 
 # Run export
